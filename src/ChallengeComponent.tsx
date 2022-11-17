@@ -1,10 +1,18 @@
-import React from 'react'
+import React from 'react';
+import Wrapper from './components/Wrapper'
+import Phase from './components/Phase'
+import PhaseContainer from './components/PhaseContainer';
+import Title from './components/Title';
 
 export function ChallengeComponent() {
   return (
-    <>
-      {/* Delete this h2, and add your own code here. */}
-      <h2 style={{ textAlign: 'center', paddingTop: 200, paddingBottom: 200 }}>Your code goes here</h2>
-    </>
+    <Wrapper>
+      <Title color={'black'}>Todos Application</Title>
+      <PhaseContainer>
+        <Phase title="To Do" />
+        <Phase title="In Progress" />
+        <Phase title="Done" />
+      </PhaseContainer>
+    </Wrapper>
   )
 }
