@@ -1,6 +1,8 @@
 ## Video Intro
 https://www.loom.com/share/3df7fcb5424644638b00724cb178e2ff
 
+<img width="940" alt="Screen Shot 2022-11-18 at 21 32 15" src="https://user-images.githubusercontent.com/24977035/202824492-dba83cc7-d61a-4530-b326-ea63b0a450bc.png">
+
 * [Getting Started with the Every.io engineering challenge.](#getting-started-with-the-everyio-engineering-challenge)
   * [The biggest factor will be your code:](#the-biggest-factor-will-be-your-code)
   * [Requirements](#requirements)
